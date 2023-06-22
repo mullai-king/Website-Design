@@ -1,0 +1,16 @@
+a:link,a:visited
+{
+  color:rgba(rgb(97, 198, 245), green, blue, alpha);
+  background-color: rgb(rgba(2, 8, 90, 0.719), green, blue);
+  text-decoration: none;
+  margin: 15px 25px;
+  display: inline-block;
+  text-align: center;
+
+}
+a:hover,a:active
+{
+  color: rgb(rgb(155, 8, 8), green, blue);
+  background-color: rgb(rgba(200, 255, 0, 0.418), green, blue);
+  text-decoration: none;
+}
